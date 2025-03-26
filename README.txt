@@ -1,3 +1,5 @@
+Sümeyye Sıla Altay 231101077 
+
 Basic Calculator with Rust:
 	In a loop, we get user input in the form of "NUMBER OPERATOR NUMBER". If not the program warns the users about the invalid input. From the input we ignore the whitespaces and get the numbers and the operator. (parts). Then we match the operator to the operation and find the result and display it. By typing "quit" user exits the loop and program ends.
 
